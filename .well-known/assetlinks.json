@@ -1,5 +1,5 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target" : { "namespace": "android_app", "package_name": "xyz.appmaker.lcuhei",
-               "sha256_cert_fingerprints": ["C139289F9A7B6F532BFB6430FC158CE61AEA466E5C496084915C5F29BD2E19D9"] }
+               "sha256_cert_fingerprints": ["C1:39:28:9F:9A:7B:6F:53:2B:FB:64:30:FC:15:8C:E6:1A:EA:46:6E:5C:49:60:84:91:5C:5F:29:BD:2E:19:D9"] }
 }]
