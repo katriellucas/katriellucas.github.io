@@ -1,7 +1,38 @@
-Welcome to my recipes!
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>A2HS demo</title>
+    <link href="style.css" rel="stylesheet">
+    <script src="index.js" defer></script>
+		
+			<script>
+				
+				if (navigator.onLine) {
+  console.log('online');
+} else {
+  console.log('offline');
+}
+				
+				window.addEventListener("online", function(e) { console.log("online"); });
 
-<form action="welcome.html" >
-<input name="username" /><br/>
-<input type="password" name="password"/><br/>
-<input type="submit" ?>
-</form>
+				window.addEventListener("offline", function(e) { console.log("online"); });
+
+			</script>			
+		<script>
+
+							var s = document.createElement("script");
+					s.id = "statvoo";
+					s.src = "https://static.statvoo.com/js/statvoo-min.js";
+					s.async = true;
+					var t = document.getElementsByTagName("script")[0]; t.parentNode.insertBefore(s, t);
+				});
+					</script>
+		
+    <link rel="manifest" href="manifest.webmanifest">
+  </head>
+  <body>
+    <img src="images/fox1.jpg" alt="a fox picture">
+    <button class="add-button">Add to home screen</button>
+  </body>
+</html>
