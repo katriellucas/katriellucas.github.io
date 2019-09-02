@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "com.gomerk.example",
-      "sha256_cert_fingerprints": ["0D:C2:CA:A2:25:8E:23:90:31:00:59:60:AA:C8:AF:E9:91:C2:E5:1C:AA:9B:4B:7F:19:28:49:71:E7:85:A4:16"]
+      "sha256_cert_fingerprints": ["C1:39:28:9F:9A:7B:6F:53:2B:FB:64:30:FC:15:8C:E6:1A:EA:46:6E:5C:49:60:84:91:5C:5F:29:BD:2E:19:D9"]
     }
   }
 ]
