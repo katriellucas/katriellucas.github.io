@@ -1,5 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target" : { "namespace": "android_app", "package_name": "com.gomerk.example",
-               "sha256_cert_fingerprints": ["FD:B5:54:24:80:30:ED:55:D0:7F:72:1C:8C:B3:89:AD:52:DC:9B:86:14:02:BD:58:76:6A:58:57:6A:37:B8:CA"] }
-}]
