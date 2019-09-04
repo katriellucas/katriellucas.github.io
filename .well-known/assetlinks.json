@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.gomerk.example",
+      "package_name": "com.gomerk.ex",
       "sha256_cert_fingerprints": ["A1:22:DC:46:CE:72:14:34:65:66:5C:BD:5F:7E:04:23:15:FD:33:BA:32:14:A4:00:19:F1:C4:36:17:3E:F4:BE"]
     }
   }
