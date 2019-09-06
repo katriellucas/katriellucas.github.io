@@ -1,5 +1,4 @@
-
-document.referrer.includes('android-app://com.gomerk.ex') {
+if document.referrer.includes('https://app.netlify.com') {
    var splash = document.getElementById("splash");
    element.classList.add("croc");
 }
