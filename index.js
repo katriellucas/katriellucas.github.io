@@ -3,6 +3,8 @@ if (document.referrer.includes('https://app.netlify.com')) {
    element.classList.add("croc");
 }
 
+var x = document.referrer; console.log(x);
+
 // Register service worker to control making site work offline
 
 if('serviceWorker' in navigator) {
