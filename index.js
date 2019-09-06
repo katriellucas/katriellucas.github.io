@@ -1,3 +1,9 @@
+
+document.referrer.includes('android-app://com.gomerk.ex') {
+   var splash = document.getElementById("splash");
+   element.classList.add("croc");
+}
+
 // Register service worker to control making site work offline
 
 if('serviceWorker' in navigator) {

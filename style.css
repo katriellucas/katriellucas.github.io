@@ -19,6 +19,14 @@ img {
   left: 1px;
 }
 
+#splash {
+  width: 25px;
+  padding: 25px;
+  background-color: red;
+}
+
+.croc { background-color: coral; }
+
 @media (orientation: landscape) {
   img {
     height: 100%;
