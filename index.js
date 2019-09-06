@@ -1,4 +1,4 @@
-if document.referrer.includes('https://app.netlify.com') {
+if (document.referrer.includes('https://app.netlify.com')) {
    var splash = document.getElementById("splash");
    element.classList.add("croc");
 }
